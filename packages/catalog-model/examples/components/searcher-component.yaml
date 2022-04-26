@@ -10,4 +10,4 @@ metadata:
 spec:
   type: pipeline
   lifecycle: production
-  owner: app-teams
+  owner: user:guest
