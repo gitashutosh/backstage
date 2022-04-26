@@ -1,12 +1,13 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: shuffle-api
-  description: Shuffle API
+  name: 7PS
+  description: Signalling and HealthChecks
   tags:
-    - go
+    - python
+    - terraform
 spec:
-  type: service
-  lifecycle: production
-  owner: user:guest
-  system: audio-playback
+  type: TF Modules
+  lifecycle: dev
+  owner: fbt:ce
+  system: framework
