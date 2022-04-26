@@ -4,10 +4,10 @@ metadata:
   name: AuroraX
   description: Automated Resiliency and Recovery
   tags:
+    - python
     - java
-    - playback
 spec:
   type: service
-  lifecycle: production
+  lifecycle: poc
   owner: user:guest
-  system: audio-playback
+  system: app-resiliency
