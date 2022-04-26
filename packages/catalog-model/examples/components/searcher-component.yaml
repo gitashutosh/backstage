@@ -5,7 +5,9 @@ metadata:
   description: TerraCore Pipeline
   tags:
     - go
+    - terraform
+    - groovy
 spec:
-  type: service
+  type: pipeline
   lifecycle: production
-  owner: user:guest
+  owner: app-teams
