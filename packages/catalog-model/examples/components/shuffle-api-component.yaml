@@ -7,7 +7,7 @@ metadata:
     - python
     - terraform
 spec:
-  type: TF Modules
+  type: modules
   lifecycle: dev
   owner: fbt:ce
   system: framework
