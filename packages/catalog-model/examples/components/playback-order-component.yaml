@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: playback-order
-  description: Playback Order
+  name: AuroraX
+  description: Automated Resiliency and Recovery
   tags:
     - java
     - playback
