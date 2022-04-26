@@ -9,5 +9,5 @@ metadata:
 spec:
   type: modules
   lifecycle: dev
-  owner: fbt:ce
+  owner: user:guest
   system: framework
